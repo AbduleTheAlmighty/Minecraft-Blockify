@@ -13,7 +13,7 @@ pip install colorama
 ## Execution
 
 To run this script, simply follow the steps below:  
-Insert all image links into input.txt seperated by linebreak
+Insert all image links into input.txt seperated by linebreak  
 Open commandpanel  
 Cd into the folder in which the script is located  
 Execute the code below:  
